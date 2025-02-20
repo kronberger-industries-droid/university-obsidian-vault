@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#8a8177",
+  "enabledCssSnippets": [
+    "image-grid-float"
+  ]
+}

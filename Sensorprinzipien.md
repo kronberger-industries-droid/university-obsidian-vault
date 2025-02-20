@@ -8,7 +8,7 @@ parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
 ## Differential-Transformator
 
 Bei dieser Art von Transformator sind Primär- und Sekundärspule durch einen verschiebbaren Eisenkern magnetisch Verbunden.
-![[esb_differential-trasformator.png]]
+![[esb_differential-trasformator.png|center|600]]
 1. Primärspule
 2. Sekundärspule 1
 3. Sekundärspule 2
@@ -25,7 +25,7 @@ Wegmessung:
 - Auflösung $\approx 1\mu m$
 ## Hall-Sonde
 Hierbei wird ein leidendes Plättchen senkrecht zu einem Magnetfeld $B$. 
-![[esb_hall-sonde.png]]
+![[esb_hall-sonde.png|center|600]]
 Lorentzkraft $F_L$ auf Ladungsträger $e_0$ mit geschwindigkeit $v$
 $$
 	F_L = e_0 v B
