@@ -20867,12 +20867,19 @@ var DiagramsView = class extends import_obsidian3.Modal {
         }
       });
       const renameFiles = (svgPath, xmlPath) => __async(this, null, function* () {
-        var _a, _b;
+        var _a;
         const newName = yield promptForNewName(this.fileName);
         if (!newName)
           return;
-        const newSvgPath = `${(_a = this.vault.getAbstractFileByPath(svgPath)) == null ? void 0 : _a.parent.path}/${newName}.svg`;
-        const newXmlPath = `${(_b = this.vault.getAbstractFileByPath(xmlPath)) == null ? void 0 : _b.parent.path}/${newName}.xml`;
+        const basePath = (_a = this.vault.getAbstractFileByPath(svgPath)) == null ? void 0 : _a.parent.path;
+        let newSvgPath, newXmlPath;
+        if (basePath == "/") {
+          newSvgPath = `${newName}.svg`;
+          newXmlPath = `${newName}.xml`;
+        } else {
+          newSvgPath = `${basePath}/${newName}.svg`;
+          newXmlPath = `${basePath}/${newName}.xml`;
+        }
         const svgFile = this.vault.getAbstractFileByPath(svgPath);
         const xmlFile = this.vault.getAbstractFileByPath(xmlPath);
         if (svgFile && xmlFile) {
@@ -21106,24 +21113,29 @@ var DiagramsNet = class extends import_obsidian5.Plugin {
             const folderPath2 = activeFile.parent.path;
             basePath = yield this.getAvailablePath("Diagram", "svg", folderPath2);
           } else {
-            throw new Error("No active file found for the current location setting.");
+            new import_obsidian5.Notice("No active file found for the current location setting.");
           }
           break;
         case "custom":
           const customPath = this.settings.customPath || "";
           if (!customPath.trim()) {
-            throw new Error("Custom path setting is empty. Please specify a valid path.");
+            new import_obsidian5.Notice("Custom path setting is empty. Please specify a valid path.");
+            return;
           }
           const folderPath = (0, import_obsidian6.normalizePath)(customPath);
-          const folder = this.app.vault.getFolderByPath(folderPath);
-          if (!folder) {
-            new import_obsidian5.Notice("The path setting does not exist");
-            throw new Error(`The specified custom path does not exist: ${folderPath}`);
+          let folder = this.app.vault.getFolderByPath(folderPath);
+          if (customPath == "/") {
+            folder = this.vault.getRoot();
           }
-          basePath = yield this.getAvailablePath("Diagram", "svg", folderPath);
+          if (!folder) {
+            basePath = "";
+            new import_obsidian5.Notice(`The specified custom path does not exist: ${folderPath}`);
+          } else {
+            basePath = yield this.getAvailablePath("Diagram", "svg", folderPath);
+          }
           break;
         default:
-          throw new Error("Invalid default location setting.");
+          new import_obsidian5.Notice("Invalid default location setting.");
       }
       return {
         svgPath: basePath,
@@ -21134,10 +21146,19 @@ var DiagramsNet = class extends import_obsidian5.Plugin {
   getAvailablePath(filename, extension, folderPath) {
     return __async(this, null, function* () {
       const path = folderPath ? folderPath : this.vault.configDir;
-      let basePath = `${path}/${filename}.${extension}`;
+      let basePath;
+      if (path == "/") {
+        basePath = `${filename}.${extension}`;
+      } else {
+        basePath = `${path}/${filename}.${extension}`;
+      }
       let counter = 1;
       while (yield this.vault.adapter.exists(basePath)) {
-        basePath = `${path}/${filename} (${counter}).${extension}`;
+        if (path == "/") {
+          basePath = `${filename} (${counter}).${extension}`;
+        } else {
+          basePath = `${path}/${filename} (${counter}).${extension}`;
+        }
         counter++;
       }
       return basePath;
@@ -21146,12 +21167,15 @@ var DiagramsNet = class extends import_obsidian5.Plugin {
   attemptNewDiagram() {
     return __async(this, null, function* () {
       const { svgPath, xmlPath } = yield this.availablePath();
+      if (!svgPath) {
+        return;
+      }
       const fileInfo = {
         path: this.activeLeafPath(this.workspace),
         basename: this.activeLeafName(this.workspace),
-        diagramExists: false,
         svgPath,
-        xmlPath
+        xmlPath,
+        diagramExists: false
       };
       this.initView(fileInfo);
     });
