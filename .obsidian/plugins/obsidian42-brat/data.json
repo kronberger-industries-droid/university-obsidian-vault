@@ -1,7 +1,7 @@
 {
   "pluginList": [
-    "Sinono3/obsidian-helix",
-    "likemuuxi/obsidian-diagrams-net"
+    "likemuuxi/obsidian-diagrams-net",
+    "Sinono3/obsidian-helix"
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],

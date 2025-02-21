@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensorprinzipien.md",
-                "mode": "source",
+                "file": "Widerstandsmessungen.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sensorprinzipien"
-            }
-          },
-          {
-            "id": "7ce22824454e6f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sensorprinzipien.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sensorprinzipien"
+              "title": "Widerstandsmessungen"
             }
           }
         ]
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensorprinzipien.md",
+                "file": "Widerstandsmessungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sensorprinzipien"
+              "title": "Backlinks for Widerstandsmessungen"
             }
           },
           {
@@ -128,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensorprinzipien.md",
+                "file": "Widerstandsmessungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sensorprinzipien"
+              "title": "Outgoing links from Widerstandsmessungen"
             }
           },
           {
@@ -157,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensorprinzipien.md",
+                "file": "Widerstandsmessungen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sensorprinzipien"
+              "title": "Outline of Widerstandsmessungen"
             }
           }
         ]
@@ -187,8 +173,30 @@
   },
   "active": "2c396ce5715491a5",
   "lastOpenFiles": [
+    "esb_widerstandsmessung-konst-strom-niederohm.svg.xml",
+    "esb_widerstandsmessung-konst-strom-niederohm.svg",
+    "esb_widerstandsmessung-konst-strom.svg.xml",
+    "esb_widerstandsmessung-konst-strom.svg",
+    "esb_vergleich-R-ref-spannung.svg.xml",
+    "esb_vergleich-R-ref-spannung.svg",
+    "esb_vergleich-R-ref-strom.svg.xml",
+    "esb_vergleich-R-ref-strom.svg",
+    "Widerstandsmessungen.svg.xml",
+    "Widerstandsmessungen.svg",
+    "Widerstandsmessungen.md",
+    "test/Widerstandsmessungen.xml",
+    "test/Widerstandsmessungen.svg",
+    "test",
+    "Widerstandsmessungen.svg.xml",
+    "Widerstandsmessungen.svg",
+    "Widerstandsmessungena.svg.xml",
+    "Widerstandsmessungena.svg",
+    "Diagram.xml",
+    "Widerstandsmessungen.svg",
+    "esb_spannungsrichtige-widerstandsmessung.svg.xml",
+    "esb_spannungsrichtige-widerstandsmessung.svg",
     "Fragenkatalog - Elektronische Messtechnik.md",
-    "Rückkopplung und Gegenkopplung.md",
-    "Sensorprinzipien.md"
+    "Sensorprinzipien.md",
+    "Rückkopplung und Gegenkopplung.md"
   ]
 }
