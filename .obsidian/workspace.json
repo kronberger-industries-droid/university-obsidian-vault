@@ -182,6 +182,15 @@
   },
   "active": "029ec502087aba12",
   "lastOpenFiles": [
+    "src/tab_anwendungen-piezoelektrischer-sensoren.png",
+    "src/graph_zusammenhang_ladungsverstärker.xml",
+    "src/fig_u-rohr-resonator.png",
+    "src/fig_anwendung-schwindsaitensensor.png",
+    "src/esb_messkette-spannungsmessung.xml",
+    "src/esb_messkette-spannungsmessung.svg",
+    "src/esb_messkette-spannungmessung.xml",
+    "src/esb_messkette-spannungmessung.svg",
+    "Kapazitive Aufnehmer.md",
     "Signalverarbeitung.md",
     "Signalübertragung.md",
     "Sensorprinzipien.md",
@@ -202,21 +211,14 @@
     "config.ymlth1CbG.bck",
     "config.ymlMvutV1.bck",
     "config.yml8M4X7Q.bck",
-    "config.yml",
     "Mechanische Sensoren.md",
     "src/esb_ladungsverstärker.svg",
-    "src",
     "Kapazitive Sensoren.md",
     "Pasted image 20250220144654.png",
     "Pasted image 20250220144647.png",
     "src/esb_gk-ui-verstärker.svg",
     "src/esb_digitale-frequenz-messung.svg",
     "src/esb_abgleich-messbrücke.svg",
-    "Pasted image 20250220144659.png",
-    "Home.md",
-    "src/esb_schwinquarz.xml",
-    "src/esb_schwinquarz.svg",
-    "src/Signalverarbeitung.svg",
-    "src/graph_4-bit-binärzähler.svg"
+    "Home.md"
   ]
 }

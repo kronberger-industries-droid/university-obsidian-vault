@@ -61,7 +61,7 @@ title: Fragenkatalog - Elektronische Messtechnik
 - Wie ist der (allgemeine) Zusammenhang zwischen Widerstand und Temperatur bei **Metall-Widerstandsfühlern**?  
 - Geben Sie eine geeignete Mess-Schaltung an.  
 
-### 9. [[Kapazitive Sensoren]] 
+### 9. [[Kapazitive Aufnehmer]] 
 - Welche Arten von kapazitiven Aufnehmern kennen Sie?  
 - Geben Sie Beispiele, Skizzen und Anwendungen.  
 
@@ -78,10 +78,6 @@ title: Fragenkatalog - Elektronische Messtechnik
 - Was versteht man unter **Serien- / Parallelresonanz**?  
 - Geben Sie Beispiele für Schwingquarz-Sensoren.  
 
-### 13. [[Mechanische Sensoren]]  
-- Erklären Sie das Prinzip von **U-Rohr- und Stimmgabel-Sensoren**.  
-- Geben Sie Anwendungsbeispiele.  
-
-### 14. [[Signalübertragung]]  
+### 13. [[Signalübertragung]]  
 - Was ist bei der Signalübertragung im Fall von **Spannung bzw. Strom als Mess-Signal** zu beachten?  
 - Was versteht man unter **Spannungsanpassung** bzw. **Stromanpassung**?  
