@@ -13,9 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Signalübertragung.md",
                 "mode": "preview",
                 "source": true,
+=======
+                "file": "Widerstandsmessungen.md",
+                "mode": "source",
+                "source": false,
+>>>>>>> b7c7789 (workspace)
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,6 +34,23 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
+=======
+              "title": "Widerstandsmessungen"
+            }
+          },
+          {
+            "id": "029ec502087aba12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signalübertragung.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+>>>>>>> b7c7789 (workspace)
               "title": "Signalübertragung"
             }
           }
@@ -182,6 +205,28 @@
   },
   "active": "029ec502087aba12",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Verstärkertypen.md",
+    "Signalverarbeitung.md",
+    "Signalübertragung.md",
+    "Sensorprinzipien.md",
+    "Schwingquarze.md",
+    "Rückkopplung und Gegenkopplung.md",
+    "Operationsverstärker.md",
+    "Ladungsverstärker.md",
+    "Kenngrößen von Sensoren.md",
+    "Kapazitive Aufnehmer.md",
+    "Gegengekoppelte Verstärker.md",
+    "Fragenkatalog - Elektronische Messtechnik.md",
+    "Digitale Messtechnik.md",
+    "Widerstandsmessungen.md",
+    "src/graph_zusammenhang_ladungsverstärker.svg.xml",
+    "src/Signalverarbeitung.xml",
+    "src/Signalverarbeitung.svg",
+    "Mechanische Sensoren.md",
+    "Kapazitive Sensoren.md",
+>>>>>>> b7c7789 (workspace)
     "src/tab_anwendungen-piezoelektrischer-sensoren.png",
     "src/graph_zusammenhang_ladungsverstärker.xml",
     "src/fig_u-rohr-resonator.png",
@@ -190,6 +235,7 @@
     "src/esb_messkette-spannungsmessung.svg",
     "src/esb_messkette-spannungmessung.xml",
     "src/esb_messkette-spannungmessung.svg",
+<<<<<<< HEAD
     "Kapazitive Aufnehmer.md",
     "Signalverarbeitung.md",
     "Signalübertragung.md",
@@ -215,6 +261,11 @@
     "src/esb_ladungsverstärker.svg",
     "Kapazitive Sensoren.md",
     "Pasted image 20250220144654.png",
+=======
+    "Diagram.xml",
+    "src/esb_vergleich-R-ref-strom.svg",
+    "Signalverarbeitung.svg",
+>>>>>>> b7c7789 (workspace)
     "Pasted image 20250220144647.png",
     "src/esb_gk-ui-verstärker.svg",
     "src/esb_digitale-frequenz-messung.svg",
