@@ -1,0 +1,18 @@
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Can be absent when toggles/compile_md == False
+# On linux, use fullpath instead of ~/
+obsidian_entrypoint_path_str: '/home/kronberger/Vaults/university-obsidian-vault/Fragenkatalog - Elektronische Messtechnik.md'
+
+# Output path of HTML files
+# This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
+# Use full path or relative path, but don't use ~/
+html_output_folder_path_str: '/home/kronberger/Vaults/university-obsidian-vault/html'
+
+# Add in custom html inclusions
+# html_custom_inclusions:
+#   - '/home/dorus/git/empty/__src/custom.css'
+
+toggles:
+  # This will skip emptying output folders, if you want to implement this yourself
+  no_clean: True
