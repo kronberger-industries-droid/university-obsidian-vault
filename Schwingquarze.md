@@ -85,5 +85,14 @@ $$
 - Schwingungsanregung zumeist elektromagnetisch
 ### Weitere Sensor-Anwendungen
 Messgröße muss $\ell$ , und/oder $c$, und/oder $\rho$ beeinflussen
+#### Homogener Resonator
+| Primäre Empfinflichkeit | Sekundäre Empfindlichkeit                         |
+| ----------------------- | ------------------------------------------------- |
+| Temperatur              | Gasdurchfluss, Restgasdruck, Strahlungsintensität |
+| Mechanische Spannung    | Druck, Kraft, Beschleunigung, Masse               |
+#### Mehrschichtiger Resonator
 
-![[tab_anwendungen-piezoelektrischer-sensoren.png]]
+| Primäre Empfinflichkeit                                   | Sekundäre Empfindlichkeit                                                                                                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Flächenmassendichte $\rho_F \ell_F$                       | Schichtdichte, Beschichtungs- oder Ätzrate, Analyt-selektive Beschichtung: Chemo-Sensoren für Gase                                                                |
+| Spezifische akustische Impedanz $z_F = \sqrt{\rho_F c_F}$ | Dichte, Viskosität von Flüssigkeiten, Analyt-selektive Beschichtung: Chemo-sensoren für Flüssigkeiten, Antikörper-Antigen selektive Beschichtung: Immuno-Sensoren |

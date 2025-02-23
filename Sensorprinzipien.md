@@ -156,7 +156,7 @@ positive und negative Ladungen sind **unsymmetrisch** verteilt und führt zu ele
 $$
 	\text{mechanische Verformung}\rightarrow\text{Änderung der Polarisation}\rightarrow\text{Oberflächen-Ladungen}\rightarrow\text{elektrische Spannung}
 $$
-![[esb_piezoelektrische-effekte.png]]
+![[esb_piezoelektrische-effekte.svg|center|600]]
 **Längseffekt**:
 Ladungen enstehen an den belasteten Flächen
 
