@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fragenkatalog - Elektronische Messtechnik.md",
-                "mode": "source",
+                "file": "Signalübertragung.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fragenkatalog - Elektronische Messtechnik"
+              "title": "Signalübertragung"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c4e135da17b3ff8f",
@@ -174,29 +173,28 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-diagrams-net:Insert new diagram": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "publish:Publish changes...": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "029ec502087aba12",
   "lastOpenFiles": [
+    "Signalverarbeitung.md",
+    "Signalübertragung.md",
+    "Sensorprinzipien.md",
+    "Ladungsverstärker.md",
+    "Gegengekoppelte Verstärker.md",
+    "Fragenkatalog - Elektronische Messtechnik.md",
     "Digitale Messtechnik.md",
     "Schwingquarze.md",
-    "Fragenkatalog - Elektronische Messtechnik.md",
     "Widerstandsmessungen.md",
     "Verstärkertypen.md",
-    "Signalverarbeitung.md",
-    "Sensorprinzipien.md",
     "Rückkopplung und Gegenkopplung.md",
     "Operationsverstärker.md",
-    "Ladungsverstärker.md",
     "Kenngrößen von Sensoren.md",
-    "Gegengekoppelte Verstärker.md",
     "config.yml1Zwbke.bck",
     "html",
     "config.ymlPX1Gl9.bck",
@@ -208,7 +206,6 @@
     "Mechanische Sensoren.md",
     "src/esb_ladungsverstärker.svg",
     "src",
-    "Signalübertragung.md",
     "Kapazitive Sensoren.md",
     "Pasted image 20250220144654.png",
     "Pasted image 20250220144647.png",
