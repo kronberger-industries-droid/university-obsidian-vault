@@ -8,7 +8,7 @@ parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
 ## Nullpunktfehler
 Ein realer OPV erzeugt eine Ausgangsspannung $U_a\ne0$ auch wenn keine Differenzspannung $U_D$ angelegt ist. Der Grund dafür sind innere Unsymmetrien.
 ### Kompensation
-![[esb_offset-spannung-kompensation.svg]]
+![[esb_offset-spannung-kompensation.svg|center|500]]
 Wobei $+U,\;-U$ eine stabile Versorgungs- oder Referenzspannung darstellt.
 ### Offset-Spannung
 Bezeichnet jene Eingangsspannung $U_e$ die eine Ausgangspannung $U_a$  gegen Null bewirkt.
