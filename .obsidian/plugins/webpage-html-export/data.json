@@ -25,7 +25,11 @@
   "addSearchBar": true,
   "addGraphView": true,
   "addTitle": true,
+<<<<<<< HEAD
   "addRSSFeed": false,
+=======
+  "addRSSFeed": true,
+>>>>>>> a755ae3 (content and change in structure)
   "siteURL": "https://kronberger-industries-droid.github.io/",
   "authorName": "Martin Kronberger",
   "vaultTitle": "university-obsidian-vault",
@@ -45,6 +49,7 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/home/kronberger/Programming/obsidian/kronberger-industries-droid.github.io/",
   "filesToExport": [
+<<<<<<< HEAD
     [
       "Digitale Messtechnik.md",
       "Fragenkatalog - Elektronische Messtechnik.md",
@@ -62,5 +67,8 @@
       "Verstärkertypen.md",
       "Widerstandsmessungen.md"
     ]
+=======
+    []
+>>>>>>> a755ae3 (content and change in structure)
   ]
 }
