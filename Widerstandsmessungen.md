@@ -90,7 +90,7 @@ Daraus folgt:
 $$
 	U_D = U_B \left(\frac{1}{2}-\frac{R}{R+R_x}\right)
 $$
-![[graph_viertelbrücke.svg]]
+![[graph_viertelbrücke.svg|center|500]]
 - Brückenspannung hängt **nichtlinear** von $R_x$ ab
 - Empfindlichkeit $\frac{\partial U_D}{\partial R_x]}$ ist **nicht** konstant
 Daher nur geeignet für Messung kleiner Widerstandsänderungen in der Nähe des Arbeitspunktes $R_x \approx R$
@@ -125,4 +125,4 @@ $\beta\dots\text{quadratischer Temperaturkoeffizient}$
 
 da $\beta \ll \alpha \quad \to \quad$ **lineare Näherung** in weitem Temperaturbereich zulässig 
 #### Messschaltung
-![[esb_pt-100-messschaltung.svg]]
+![[esb_pt-100-messschaltung.svg|center|500]]

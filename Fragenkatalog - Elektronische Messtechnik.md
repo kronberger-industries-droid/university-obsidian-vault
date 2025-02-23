@@ -73,7 +73,7 @@ title: Fragenkatalog - Elektronische Messtechnik
 - Erklären Sie das **Abtast-Theorem**.  
 - Was geschieht bei Verletzung des Abtast-Theorems und wie kann eine solche in Mess-Systemen vermieden werden?  
 
-### 12.[[Schwingquarze]]  
+### 12. [[Schwingquarze]]  
 - Erklären Sie das elektrische Verhalten eines **Schwingquarzes** (Ersatzschaltbild).  
 - Was versteht man unter **Serien- / Parallelresonanz**?  
 - Geben Sie Beispiele für Schwingquarz-Sensoren.  
