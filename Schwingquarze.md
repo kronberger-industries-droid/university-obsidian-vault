@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Schwingquarze
 Dies sind Quarzplättchen, welche in bestimmter Richtung aus einem Piezoelektrischen Kristall herausgeschnitten wurden und mit Elektroden versehen wurden.
 ## Prinzip:
 $$

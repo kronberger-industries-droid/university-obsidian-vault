@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "trashOption": "local",
   "showLineNumber": true,
   "attachmentFolderPath": "src"

@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Operationsverstärker
 ![[esb_opv.svg|center|500]]
 ## Nullpunktfehler
 Ein realer OPV erzeugt eine Ausgangsspannung $U_a\ne0$ auch wenn keine Differenzspannung $U_D$ angelegt ist. Der Grund dafür sind innere Unsymmetrien.

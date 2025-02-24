@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Signalverarbeitung
 ## Abtast-Theorem
 Abtastfrequenz $f_a$ muss **größer** sein als das **Doppelte** der **höchsten** im Mess-Signal enthaltene **Frequenzkomponente** $f_{max}$:
 $$

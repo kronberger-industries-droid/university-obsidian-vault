@@ -1,0 +1,32 @@
+/* Make links with "box" keyword appear as large styled blocks */
+.markdown-preview-view a.internal-link[href*=""]:has(> span:contains("box")) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+    background-color: #282c34;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    transition: transform 0.2s, background-color 0.3s;
+    text-decoration: none;
+}
+
+.markdown-preview-view a.internal-link[href*=""]:has(> span:contains("box")):hover {
+    background-color: #3a3f4b;
+    transform: scale(1.05);
+}
+
+/* Alternate style for links with "grid" */
+.markdown-preview-view a.internal-link[href*=""]:has(> span:contains("grid")) {
+    display: inline-block;
+    background-color: #1e1e1e;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: lightblue;
+}

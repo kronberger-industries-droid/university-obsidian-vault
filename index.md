@@ -20,7 +20,7 @@ title: Fragenkatalog - Elektronische Messtechnik
 - Warum werden Verstärker gegengekoppelt?  
 - Wie beeinflusst die GK den Verstärkungsfaktor (Ableitung!)?  
 
-### 4. [[Gegengekoppelte Verstaerker]]  
+### 4. [[Gegengekoppelte Verstärker]]  
 - Geben Sie die Schaltung für den gegengekoppelten **u/u-Verstärker** an und berechnen Sie dessen Übertragungsfaktor.  
 - Welche Eigenschaften besitzt die Schaltung und wann wird sie bevorzugt eingesetzt?  
 

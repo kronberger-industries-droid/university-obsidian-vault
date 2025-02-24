@@ -1,10 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Verstärkertypen
-
 ## Welche Verstärkertypen kennen Sie?  
 Verstärker können anhand ihrer art der Linearisierung klassifiziert werden. Verhaltet sich zum Beispiel die Eingangsspannung $u_e$ linear zum Ausgangsstrom $i_a$ wird dieser Verstärker als **i/u-Verstärker** bezeichnet. Wobei die erste Stelle den Ausgangswert kennzeichnet und die zweite den Eingangswert. Daher gibt es folgende Verstärker typen:
   - u/u-Verstärker

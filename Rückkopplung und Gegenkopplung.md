@@ -1,10 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Rückkopplung und Gegenkopplung
-
 ## Rückkopplung
 Ist ein Verstärker rückgekoppelt so wird ein teil des Ausgangssignals ($x_a = k'x'_e$) rückgeführt und trägt dem Eingangssignal bei. Ob diese rückgeführte Größe ($x_g=k_gx_a$) zur Eingangsgröße addiert oder subtrahiert wird klassifiziert die Rückkopplung entweder als Mitkopplung ( + ) oder als Gegenkopplung ( - ).  
 ## Mitkopplung

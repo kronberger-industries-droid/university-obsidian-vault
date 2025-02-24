@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Kapazitive Aufnehmer
 Kapazität eines Kondensators wird durch eine nicht-elektrische Messgröße beeinflusst.
 $$
 	C = \frac{\varepsilon_r A}{a} \quad \text{mit} \quad \varepsilon = \varepsilon_0 \varepsilon_r

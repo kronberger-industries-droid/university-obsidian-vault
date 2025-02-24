@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Signalübertragung
 ## Spannung als Messsignal
 Messkette, bestehend aus Sensor, Übertragungsleitung und Empfänger
 

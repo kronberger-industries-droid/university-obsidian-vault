@@ -1,10 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-
-# Ladungsverstärker
 Ein Ladungsverstärker ist essentiell eine Integrator Schaltung, wobei die Ausgangsspannung das negierte Integral (invertierter Verstärker) der Eingangsspannung darstellt. Oder anders ausgedrückt: sinkt die Ausgangsspannung zu jedem Zeitschritt um den aktuellen Wert der Eingangsspannung.
 ![[esb_ladungsverstärker.svg|center|500]]
 ## Zusammenhang Ausgangs- und Eingangsspannung

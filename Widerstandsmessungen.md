@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Widerstandsmessungen
 ## Prinzipschaltungen
 ### Gleichzeitige Messung von Spannung und Strom
 #### Stromrichtige Schaltung

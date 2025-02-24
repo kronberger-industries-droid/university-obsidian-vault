@@ -1,10 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Sensorprinzipien
-
 ## Differential-Transformator
 
 Bei dieser Art von Transformator sind Primär- und Sekundärspule durch einen verschiebbaren Eisenkern magnetisch Verbunden.

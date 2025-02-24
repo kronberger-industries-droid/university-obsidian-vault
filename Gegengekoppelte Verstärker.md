@@ -1,9 +1,8 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
-# Gegengekoppelte Verstärker
 ## Gegengekoppelten u/u-Verstärker
 $$
 	k_U = \frac{u_a}{u_e}=\frac{R_1+R_2}{R_2}=1+\frac{R_1}{R_2}

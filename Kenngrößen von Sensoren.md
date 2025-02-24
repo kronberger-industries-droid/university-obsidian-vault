@@ -1,7 +1,7 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
 ## Empfindlichkeit
 Änderung des Mess-Signals bezogen auf (kleine) Messänderung -> Steigung der Tangente an Sensorkennlinie.

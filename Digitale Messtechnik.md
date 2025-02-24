@@ -1,7 +1,7 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
+parent: "[[index]]"
 ---
 # Digitale Messtechnik
 ## JK-Flipflop (negativ flankengetriggert)
