@@ -1,5 +1,5 @@
 {
-  "settingsVersion": "0.0.0",
+  "settingsVersion": "1.8.01",
   "exportOptions": {
     "createDocumentContainer": true,
     "keepModHeaderFooter": false,
@@ -67,7 +67,7 @@
     },
     "propertiesOptions": {
       "featureId": "properties",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "displayTitle": "Properties",
@@ -186,7 +186,7 @@
     },
     "rssOptions": {
       "featureId": "obsidian-document",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "siteUrl": "",
@@ -202,7 +202,7 @@
     "inlineFonts": false,
     "inlineOther": false,
     "combineAsSingleFile": false,
-    "offlineResources": true,
+    "offlineResources": false,
     "themeName": "",
     "slugifyPaths": true,
     "flattenExportPaths": false,

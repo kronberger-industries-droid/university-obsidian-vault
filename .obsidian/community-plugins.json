@@ -3,5 +3,8 @@
   "obsidian-minimal-settings",
   "helix",
   "obsidian-diagrams-net",
-  "webpage-html-export"
+  "webpage-html-export",
+  "restore-tab-key",
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]

@@ -13,7 +13,7 @@ parent: "[[index]]"
 ## Digitale Frequenzmessung
 ### Prinzip
 $$
-	\text{Messsignal} \to \text{Rechteckfolge} \to \text{Pulse werden während def\. Messzeit gezählt}
+	\text{Messsignal} \to \text{Rechteckfolge} \to \text{Pulse werden während def. Messzeit gezählt}
 $$
 Gesucht:
 $$
