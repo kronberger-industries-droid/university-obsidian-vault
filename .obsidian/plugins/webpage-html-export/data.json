@@ -12,20 +12,8 @@
     "inlineHTML": false,
     "exportPath": "/home/kronberger/Programming/obsidian/kronberger-industries-droid.github.io",
     "filesToExport": [
-      "Digitale Messtechnik.md",
-      "index.md",
-      "Gegengekoppelte Verstärker.md",
-      "Kapazitive Aufnehmer.md",
-      "Kenngrößen von Sensoren.md",
-      "Ladungsverstärker.md",
-      "Operationsverstärker.md",
-      "Rückkopplung und Gegenkopplung.md",
-      "Schwingquarze.md",
-      "Sensorprinzipien.md",
-      "Signalübertragung.md",
-      "Signalverarbeitung.md",
-      "Verstärkertypen.md",
-      "Widerstandsmessungen.md"
+      "Antworten",
+      "index.md"
     ],
     "addBodyClasses": true,
     "addMathjaxStyles": true,
@@ -189,9 +177,9 @@
       "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
-      "siteUrl": "",
-      "siteName": "university-obsidian-vault",
-      "authorName": ""
+      "siteUrl": "https://kronberger-industries-droid.github.io",
+      "siteName": "Fragenkatalog Elektronische Messtechnik",
+      "authorName": "Martin Kronberger"
     },
     "relativeHeaderLinks": false,
     "includeJS": true,

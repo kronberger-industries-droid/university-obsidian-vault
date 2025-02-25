@@ -61,6 +61,8 @@ VO 134.161 - ab WS 2024/25
 - Wie ist der (allgemeine) Zusammenhang zwischen Widerstand und Temperatur bei **Metall-Widerstandsfühlern**?  
 - Geben Sie eine geeignete Mess-Schaltung an.  
 
+### 9. [[Messung von Blind- und Scheinwiderständen an]]
+- Geben Sie die Prinzipschaltungen zur Messung von Blind- und Scheinwiderständen an.
 ### 9. [[Kapazitive Aufnehmer]] 
 - Welche Arten von kapazitiven Aufnehmern kennen Sie?  
 - Geben Sie Beispiele, Skizzen und Anwendungen.  

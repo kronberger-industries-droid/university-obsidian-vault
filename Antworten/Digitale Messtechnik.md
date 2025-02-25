@@ -3,7 +3,6 @@ tags:
   - subject/emt/answers
 parent: "[[index]]"
 ---
-# Digitale Messtechnik
 ## JK-Flipflop (negativ flankengetriggert)
 ![[table_jk-flipflop.svg]]
 ## 4-Bit-Binärzähler (JK-FF)

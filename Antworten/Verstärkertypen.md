@@ -20,8 +20,7 @@ $$
 
 ### i/u-Verstärker
 $$
-
-	k_G = \frac{u_a}{u_e}
+	k_G = \frac{i_a}{u_e}
 $$
 ![[esb_i-u_verstärker.svg|center|400]]
 
