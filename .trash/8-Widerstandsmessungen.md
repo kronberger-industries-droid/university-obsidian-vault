@@ -186,11 +186,11 @@ Elektrischer Widerstand steigt mit Temperatur (Kaltleiter)
 $$
 	R(T) = R_0\left[1+\alpha(T-T_0)+\beta(T-T_0)^2\right]
 $$
+
 $T\dots\text{absolute Temperatur}$
 $\alpha\dots\text{linearer Temperaturkoeffizient}$
 $\beta\dots\text{quadratischer Temperaturkoeffizient}$
 
 da $\beta \ll \alpha \quad \to \quad$ **lineare Näherung** in weitem Temperaturbereich zulässig 
 #### Messschaltung
-
 ![[esb_pt-100-messschaltung.svg|center|500]]

@@ -38,7 +38,7 @@ $$
 	\quad \rightarrow \quad
 	E_H=vB
 $$
-Die durch das Elektrische Feld erzeugte $E_H$ Spannung $U_H$ kann mithilfe der Breite des Leiters $d$ berechnet werden
+Die durch das Elektrische Feld erzeugte$E_H$ Spannung $U_H$ kann mithilfe der Breite des Leiters $d$ berechnet werden
 $$
 	E_H=\frac{U_H}{b}
 	\quad\rightarrow\quad
@@ -61,7 +61,7 @@ $$
 	- Potentialfreie Messung hoher Ströme mittels Messung Magnetischer Induktion
 	- Druckmessung mittels Bewegung eines Dauermagneten (Veränderung von $B$ durch Bewegung des Dauermagneten)
 ## Thermoelement
-Zwei unterschiedliche Materialien $A,\;B$ sind an den Kontaktstellen $I,\;II$ verbunden, zwischen diesen Kontaktstellen entstehen temperaturabhängige Kontaktspannungen $U_1,\;U_2$.
+Zwei unterschiedliche Materialien $A,\;B$sind an den Kontaktstellen $I,\;II$ verbunden, zwischen diesen Kontaktstellen entstehen temperaturabhängige Kontaktspannungen $U_1,\;U_2$.
 ![[esb_thermoelement.svg|center|500]]
 Ursache: **Seebeck-Effekt**
 $$
@@ -170,3 +170,7 @@ Quarz $SiO_2$, Lithiumtantalat $LiTaO_3$, $\dots$
 Bariumtitanat $BaTiO_3$, Bleititanat $PbTiO_3$, Blei-Zirkonat-Titanat ($BZT$) $Pb(Zr,\;Ti)O_3$, $\dots$
 **organische Polymere**:
 Polyvinylidendifluorid ($PVDF$)
+
+___
+
+<button>[[index|Home]]</button>
