@@ -1,7 +1,7 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[index]]"
+parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
 ---
 ![[esb_opv.svg|center|500]]
 ## Nullpunktfehler

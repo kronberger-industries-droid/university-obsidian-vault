@@ -1,7 +1,7 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[index]]"
+parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
 ---
 ## Differential-Transformator
 

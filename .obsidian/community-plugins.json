@@ -3,5 +3,7 @@
   "obsidian-minimal-settings",
   "helix",
   "obsidian-diagrams-net",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]

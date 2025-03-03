@@ -1,5 +1,7 @@
 {
   "pluginList": [
+    "mProjectsCode/obsidian-js-engine-plugin",
+    "mProjectsCode/obsidian-meta-bind-plugin",
     "KosmosisDire/obsidian-webpage-export",
     "likemuuxi/obsidian-diagrams-net",
     "Sinono3/obsidian-helix"

@@ -1,7 +1,7 @@
 ---
 tags:
   - subject/emt/answers
-parent: "[[index]]"
+parent: "[[Fragenkatalog - Elektronische Messtechnik]]"
 ---
 Kapazität eines Kondensators wird durch eine nicht-elektrische Messgröße beeinflusst.
 $$
