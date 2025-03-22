@@ -3,5 +3,12 @@
   "showUnsupportedFiles": false,
   "trashOption": "local",
   "showLineNumber": true,
-  "attachmentFolderPath": "src"
+  "attachmentFolderPath": "src",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

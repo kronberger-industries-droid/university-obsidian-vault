@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "#8a8177",
   "enabledCssSnippets": [
     "image-grid-float",
     "styles"
   ],
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

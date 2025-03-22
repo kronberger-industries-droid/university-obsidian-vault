@@ -1,1 +1,0 @@
-[[Fragenkatalog - Elektronische Messtechnik]]
