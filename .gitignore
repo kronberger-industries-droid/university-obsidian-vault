@@ -2,3 +2,7 @@
 .obsidian/workspace.json
 .obsidian/workspace.json
 html/
+
+# Added by cargo
+
+/target
