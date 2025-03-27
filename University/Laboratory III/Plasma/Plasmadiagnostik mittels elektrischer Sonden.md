@@ -11,8 +11,3 @@
 ### Ermittlung der Elektronenenergieverteilungs-Funktion
 
 ### Doppelsonde: Ermitteln der Elektronentemperatur und Plasmadichte
-```run-rust
-fn main() {
-	printf!("Hello, World!);
-}
-```
